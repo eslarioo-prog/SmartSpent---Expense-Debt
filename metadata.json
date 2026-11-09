@@ -1,0 +1,6 @@
+{
+  "name": "تطبيق إدارة المصاريف والديون - Android Jetpack Compose & Room",
+  "description": "تطبيق شخصي لإدارة المصاريف والديون (Expense & Debt Tracker) مع بنية Clean Architecture وكود Kotlin للـ Room Database ومحاكي أندرويد تفاعلي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
